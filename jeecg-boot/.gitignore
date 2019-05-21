@@ -5,6 +5,20 @@ out
 gen
 
 **/target
-*~
+
+*.class
+**/webapp/userfiles
+**/WEB-INF/classes
+**/logs/*.log*
+*.epoch
+*.lic
+
+.classpath
+.project
+
+*.ipr
+*.iws
+
 .DS_Store
+
 
