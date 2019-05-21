@@ -4,16 +4,7 @@
 out
 gen
 
-
-
 **/target
-
 *~
 .DS_Store
 
-.idea/jeecg-boot.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/qaplug_profiles.xml
-.idea/sonarlint/
-.idea/workspace.xml
